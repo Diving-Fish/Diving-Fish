@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Named Diving-Fish, a game programmer holding on to seeking fantasy.
+
+- 🔭 Major in computer graphics and game programming.
+- 🌱 Amateur for front-end / back-end, and writing (articles, not code)!
+- 💬 Personal Site: https://www.diving-fish.com
+
 <!--
 **Diving-Fish/Diving-Fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
